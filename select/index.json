@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "消えてしまいそうです（1970s） (Live)",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-10T11:54:42.439666Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "消えてしまいそうです(1970s) - Live",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_消えてしまいそうです(1970s)_-_Live_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
